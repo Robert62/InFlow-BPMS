@@ -1,6 +1,6 @@
 # InFlow
 
-## A _Business Process Management System_ (BPMS) based on _Subject-oriented Business Process Management_ (S-BPM) 
+## A _Workflow Management System_ (WfMS) based on _Subject-oriented Business Process Management_ (S-BPM) 
 
 The S-BPM methodology is explained in the book _Subject-Oriented Business Process Management_, which is available for free download at http://link.springer.com.
 
